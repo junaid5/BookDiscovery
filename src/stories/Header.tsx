@@ -37,7 +37,7 @@ export const Header = ({ user, onLogin, onLogout, onCreateAccount }: HeaderProps
         <h1>Acme</h1>
       </div>
       <div>
-        {user ? (
+        {user ?  (
           <>
             <span className="welcome">
               Welcome, <b>{user.name}</b>!

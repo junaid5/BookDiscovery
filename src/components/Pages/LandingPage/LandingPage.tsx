@@ -6,7 +6,7 @@ import CardReports from '../../Molecules/CardReports/CardReports';
 import Reading from '../../Organisms/Reading/Reading';
 import Recommendation from '../../Organisms/Recommendation/Recommendation';
 import Following from '../../Organisms/Following/Following';
-import Topics from '../../Organisms/Topics/Topics';
+import Topics from '../../Organisms/Topics/Topics'; 
 import Ratings from '../../Organisms/Ratings/Ratings';
 
 const LandingPage=()=> {

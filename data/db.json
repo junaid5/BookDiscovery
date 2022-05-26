@@ -1,0 +1,271 @@
+{
+  "readingBooks": [
+    {
+      "img": "http://127.0.0.1:8887/Re1.png",
+      "bookName": "Inorganic Chemistry",
+      "bookAuthor": "VK Ahulwalia",
+      "category": "Chemistry",
+      "pagesLeft": "20/250"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Re2.png",
+      "bookName": "The Physics Book",
+      "bookAuthor": "Clifford A Pickover",
+      "category": "Physics",
+      "pagesLeft": "120/300"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Re3.png",
+      "bookName": "Biology",
+      "bookAuthor": "Marielle Hoefnagelle",
+      "category": "Biology",
+      "pagesLeft": "111/210"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Re4.png",
+      "bookName": "World History",
+      "bookAuthor": "Krishna Reddy",
+      "category": "History",
+      "pagesLeft": "300/320"
+    }
+  ],
+  "recommendation": [
+    {
+      "img": "http://127.0.0.1:8887/Rec1.png",
+      "bookName": "Basic Physics",
+      "bookAuthor": "By  Karl F Kuhn",
+      "category": "Category: Chemistry",
+      "stars": "4.5",
+      "ratings": "1210 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Rec2.png",
+      "bookName": "Bio Organic Chemistry",
+      "bookAuthor": "By  Sidney M Hecht",
+      "category": "Category: Chemistry",
+      "stars": "4.2",
+      "ratings": "1120 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Rec3.png",
+      "bookName": "Crystal Chemistry",
+      "bookAuthor": "By  Gerald Ferey",
+      "category": "Category: Chemistry",
+      "stars": "3.5",
+      "ratings": "1110 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Rec4.png",
+      "bookName": "Biology",
+      "bookAuthor": "By  SergeyVasutin",
+      "category": "Category: Chemistry",
+      "stars": "4.5",
+      "ratings": "530 ratings"
+    }
+  ],
+  "follow": [
+    {
+      "img": "http://127.0.0.1:8887/Fol1.png",
+      "bookName": "Inorganic Cemistry",
+      "bookAuthor": "By  Roary Ried",
+      "category": "Category: Chemistry",
+      "stars": "4.5",
+      "ratings": "1210 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Fol2.png",
+      "bookName": "English Grammar",
+      "bookAuthor": "By  Sidney Greenbaum",
+      "category": "Category: Chemistry",
+      "stars": "4.2",
+      "ratings": "1120 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Fol3.png",
+      "bookName": "Heterocycles Chemistry",
+      "bookAuthor": "By  Yann Martel",
+      "category": "Category: Chemistry",
+      "stars": "3.5",
+      "ratings": "1110 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Fol4.png",
+      "bookName": "World Geograhy",
+      "bookAuthor": "By  Charles Dickens",
+      "category": "Category: Chemistry",
+      "stars": "3.5",
+      "ratings": "530 ratings"
+    }
+  ],
+  "topic": [
+    {
+      "img": "http://127.0.0.1:8887/Top1.png",
+      "content": "GEOGRAPHY"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Top2.png",
+      "content": "HISTORY"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Top3.png",
+      "content": "ECONOMICS"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Top4.png",
+      "content": "TELUGU"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Top5.png",
+      "content": "MATHS"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Top6.png",
+      "content": "SCIENCE"
+    }
+  ],
+  "rating": [
+    {
+      "img": "http://127.0.0.1:8887/Ra1.png",
+      "bookName": "Principles of Physics",
+      "bookAuthor": "By  Rohit Mehta",
+      "category": "Category: Chemistry",
+      "stars": "4.5",
+      "ratings": "1210 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Ra2.png",
+      "bookName": "German History",
+      "bookAuthor": "By  Eric Dorn Brose",
+      "category": "Category: Chemistry",
+      "stars": "4.2",
+      "ratings": "1120 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Ra3.png",
+      "bookName": "Jungle Book",
+      "bookAuthor": "By  Yann Martel",
+      "category": "Category: Chemistry",
+      "stars": "3.5",
+      "ratings": "1110 ratings"
+    },
+    {
+      "img": "http://127.0.0.1:8887/Ra4.png",
+      "bookName": "The Prophet",
+      "bookAuthor": "By  Charles Dickens",
+      "category": "Category: Chemistry",
+      "stars": "3.5",
+      "ratings": "530 ratings"
+    }
+  ],
+  "search": [
+    {
+      "img": "http://127.0.0.1:8887/Fol1.png",
+      "bookName": "Inorganic Cemistry",
+      "bookAuthor": "Roary Ried",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "category": "Category: Chemistry",
+      "stars": "4.5",
+      "ratings": "1210 ratings"
+    },
+    {
+        "img": "http://127.0.0.1:8887/Ra1.png",
+        "bookName": "Principles of Physics",
+        "bookAuthor": "By  Rohit Mehta",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.5",
+        "ratings": "1210 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Ra2.png",
+        "bookName": "German History",
+        "bookAuthor": "By  Eric Dorn Brose",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.2",
+        "ratings": "1120 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Ra3.png",
+        "bookName": "Jungle Book",
+        "bookAuthor": "By  Yann Martel",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "3.5",
+        "ratings": "1110 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Ra4.png",
+        "bookName": "The Prophet",
+        "bookAuthor": "By  Charles Dickens",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "3.5",
+        "ratings": "530 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Fol2.png",
+        "bookName": "English Grammar",
+        "bookAuthor": "By  Sidney Greenbaum",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.2",
+        "ratings": "1120 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Fol3.png",
+        "bookName": "Heterocycles Chemistry",
+        "bookAuthor": "By  Yann Martel",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "3.5",
+        "ratings": "1110 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Fol4.png",
+        "bookName": "World Geograhy",
+        "bookAuthor": "By  Charles Dickens",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "3.5",
+        "ratings": "530 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Rec1.png",
+        "bookName": "Basic Physics",
+        "bookAuthor": "By  Karl F Kuhn",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.5",
+        "ratings": "1210 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Rec2.png",
+        "bookName": "Bio Organic Chemistry",
+        "bookAuthor": "By  Sidney M Hecht",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.2",
+        "ratings": "1120 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Rec3.png",
+        "bookName": "Crystal Chemistry",
+        "bookAuthor": "By  Gerald Ferey",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "3.5",
+        "ratings": "1110 ratings"
+      },
+      {
+        "img": "http://127.0.0.1:8887/Rec4.png",
+        "bookName": "Biology",
+        "bookAuthor": "By  SergeyVasutin",
+        "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+        "category": "Category: Chemistry",
+        "stars": "4.5",
+        "ratings": "530 ratings"
+      }
+
+  ]
+}

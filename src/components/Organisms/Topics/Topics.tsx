@@ -2,8 +2,6 @@ import React from 'react'
 import { Grid } from '@mui/material'
 import TopicsCard from '../../Molecules/TopicsCard/TopicsCard'
 import { useState, useEffect } from 'react'
-import { Typography } from '@mui/material'
-import { Stack } from '@mui/material'
 
 const Topics=()=> {
     const [image,setImage]=useState([])

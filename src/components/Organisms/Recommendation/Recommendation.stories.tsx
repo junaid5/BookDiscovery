@@ -7,4 +7,4 @@ const RecommendationComponent={
 
 export default RecommendationComponent
 
-export const Recommendations = ()=> <Recommendation/>
+export const Recommendations = ()=> <Recommendation value="Recommendation"/>

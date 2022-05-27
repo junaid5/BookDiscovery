@@ -7,4 +7,4 @@ const BannerComponent={
 
 export default BannerComponent
 
-export const Baners = ()=> <Banner/>
+export const Baners = ()=> <Banner/>    

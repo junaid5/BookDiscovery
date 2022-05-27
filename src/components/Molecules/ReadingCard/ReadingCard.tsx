@@ -5,7 +5,8 @@ import { CardContent, CardMedia } from "@mui/material";
 
 const ReadingCard=({card}: any)=> {
   return (
-    <Card sx={{ width: "273px", height: "140px"}}>
+    <div data-testid="ReadingCard-element">
+    <Card sx={{ width: "273px", height: "140px"}}> 
         <Stack direction="row">
             <CardMedia 
             component="img"
@@ -30,8 +31,9 @@ const ReadingCard=({card}: any)=> {
                     </Typography>
                 </CardContent>
             </Stack>
-        </Stack>
+        </Stack> 
     </Card>
+    </div>
   )
 }
 

@@ -11,6 +11,7 @@ import ShareOutlinedIcon from '@mui/icons-material/ShareOutlined';
 
 const RecommendCard = ({ card }: any) => {
   return (
+    <div data-testid="RecommendCard-element"> 
     <Card sx={{ width: "273px", height: "385px" }}>
       <MoreHorizIcon sx={{marginLeft: "230px",marginTop: "9px",marginBottom: "9px"}}/>
       <CardMedia
@@ -45,6 +46,7 @@ const RecommendCard = ({ card }: any) => {
         </Stack>
       </CardContent>
     </Card>
+    </div>
   );
 };
 

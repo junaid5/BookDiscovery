@@ -1,26 +1,31 @@
 import React from 'react'
-import TopBar from '../../Molecules/TopBar/TopBar';
+import TopBar from '../../Organisms/TopBar/TopBar';
 import Banner from '../../Molecules/Banner/Banner';
 import { Container } from '@mui/material';
 import CardReports from '../../Molecules/CardReports/CardReports';
 import Reading from '../../Organisms/Reading/Reading';
 import Recommendation from '../../Organisms/Recommendation/Recommendation';
-import Following from '../../Organisms/Following/Following';
 import Topics from '../../Organisms/Topics/Topics'; 
-import Ratings from '../../Organisms/Ratings/Ratings';
+import Heading from '../../Molecules/Heading/Heading';
+
 
 const LandingPage=()=> {
   return (
-    <div>
+    <div data-testid="LandingPage-element" >
     <TopBar/>
     <Container>
     <Banner/>
     <CardReports/>
+    <Heading content="Books You are Reading" />
     <Reading/>
-    <Recommendation/>
-    <Following/>
+    <Heading content="Recommendations" />
+    <Recommendation value="recommendation"/>
+    <Heading content="People You are Following Also Read" />
+    <Recommendation value="follow"/>
+    <Heading content="Topics You Follow" />
     <Topics/>
-    <Ratings/>
+    <Heading content="Top Ratings" />
+    <Recommendation value="rating"/>
     </Container>
     </div>
   )

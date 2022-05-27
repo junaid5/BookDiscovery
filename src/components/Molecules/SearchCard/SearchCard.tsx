@@ -12,6 +12,7 @@ import author from './Auoth.png'
 
 const SearchCard=({card}: any)=> {
   return (
+    <div data-testid="SearchCard-element">
     <Card sx={{ width: "571px", height: "287px",marginTop: "20px" }}>
       <Stack direction="row">
       <CardMedia
@@ -30,7 +31,7 @@ const SearchCard=({card}: any)=> {
           <IconButton aria-label="settings">
             <MoreHorizIcon />
           </IconButton>
-        }
+        } 
         title={card.bookAuthor}
         subheader="Author"
       />
@@ -61,6 +62,7 @@ const SearchCard=({card}: any)=> {
       </Stack>
       </Stack>
     </Card>
+    </div>
   )
 }
 

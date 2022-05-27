@@ -5,6 +5,7 @@ import { Typography } from '@mui/material'
 
 const CardReport=({image,heading,number}: any)=> {
   return (
+    <div data-testid="CardReport-element" >
     <Box width="273px" height="104px" sx={{backgroundColor: "#FAFAFA"}}>
         <Stack direction="row" spacing={4} >
             <img height="24px" width="24px" src={image} alt="" style={{marginLeft: "20px",marginTop: "35px"}} />
@@ -14,6 +15,7 @@ const CardReport=({image,heading,number}: any)=> {
             </Stack>
         </Stack>
     </Box>
+    </div>
   )
 }
 

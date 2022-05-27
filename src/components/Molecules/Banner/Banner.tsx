@@ -7,6 +7,7 @@ import shelf from './BookShelf.png'
 
 const Banner = () => {
   return (
+    <div data-testid="Banner-element">
     <Box width="1166px" height="286px" sx={{ backgroundColor: "#8C52C6",marginTop: "70px",borderRadius: "10px" }}>
       <Stack direction="row" spacing={30} >
         <Stack spacing={2} sx={{marginTop: "40px",marginLeft: "30px"}}>
@@ -23,6 +24,7 @@ const Banner = () => {
         <img src={shelf} alt="" style={{marginRight: "100px", marginTop: "56px"}}/>
       </Stack>
     </Box>
+    </div>
   );
 };
 
